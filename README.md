@@ -2,3 +2,4 @@ JustSelect is a simple select and nothing else. When you need a bare simple sele
 jQuery of any version is needed to make this plugin works.
 
 Demo: https://lena-ts.github.io/justselect/
+
